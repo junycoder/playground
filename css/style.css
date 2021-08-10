@@ -52,6 +52,24 @@ input::placeholder {
     color: #e0e0e0;
 }
 
+#searchbar {
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 10px;
+    
+}
+
+#searchbar input::placeholder{
+    color: rgba(255,255,255,0.2);
+    font-size: 15px;
+}
+
+#searchbar i {
+    color: rgba(255,255,255,0.6);
+    position: relative;
+    top: 2px;
+    right: 10px;
+}
+
 #greeting {
     position: fixed;
     right: 120px;
