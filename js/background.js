@@ -1,10 +1,9 @@
 const images = [
     "01.png",
-    "02.jpeg",
-    "03.jpeg",
-    "04.jpeg",
-    "05.jpeg",
-    "06.jpeg",
+    "02.png!d",
+    "03.jpg!d",
+    "04.jpg!d",
+    "05.jpg!d",
 ]
 
 const backgroundImage = images[Math.floor(Math.random() * images.length)];
